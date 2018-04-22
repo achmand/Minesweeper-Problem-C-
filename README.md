@@ -1,1 +1,1 @@
-# Minesweeper-Problem CSharp
+# Minesweeper Problem CSharp
